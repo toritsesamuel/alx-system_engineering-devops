@@ -1,4 +1,4 @@
-pwd
+
 #!/bin/bash
-echo 'my first real work' > README.md
+pwd
 

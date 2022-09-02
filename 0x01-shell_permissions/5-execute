@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp hello 5-execute
+chmod 744 hell0

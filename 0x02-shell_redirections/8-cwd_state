@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > ls_cwd_content
+echo "prints all files both hidden in long format"> ls_cwd_content
